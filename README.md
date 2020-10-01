@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**franznkemaka/franznkemaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer working at Rigle™, Stuttgart, Germany.
 
-Here are some ideas to get you started:
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/franznkemaka/">
+  <img align="left" alt="My LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/franznkemaka/">
+  <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/fnkemaka">
+  <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://facebook.com/franznkemaka">
+  <img align="left" alt="My Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🔭 I’m currently working on Spinym.com
+-   ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json`
+-   🌱 Learning new tech on my free time
+-   📫 Reach me: franznkemaka.com
+-   ⚡ Fun fact: I like coding
+
+<br/>
+
+[![Franz Nkemaka's github stats](https://github-readme-stats.vercel.app/api?username=franznkemaka&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
