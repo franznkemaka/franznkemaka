@@ -19,11 +19,11 @@ I'm a Full Stack Developer working at Rigle™, Stuttgart, Germany.
 <br/>
 <br/>
 
--   🔭 I’m currently working on Spinym.com
--   ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json`
+-   🔭 I’m currently working on my new Startup
+-   ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json, .xml, .xd, .psd, .ai`
 -   🌱 Learning new tech on my free time
 -   📫 Reach me: franznkemaka.com
--   ⚡ Fun fact: I like coding
+-   ⚡ Fun fact: I like coding & playing video games
 
 <br/>
 
