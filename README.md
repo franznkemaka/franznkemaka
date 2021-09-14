@@ -45,4 +45,4 @@ I'm a self-taught Full Stack Developer working at [Dasline](https://github.com/d
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-[![Franz Nkemaka's github stats](https://github-readme-stats.vercel.app/api?username=franznkemaka&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=franznkemaka)](https://git.io/streak-stats)
