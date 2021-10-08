@@ -19,9 +19,9 @@ I'm a self-taught Full Stack Developer working at [Dasline](https://github.com/d
 <br/>
 <br/>
 
--   🔭 I'm currently working [Dasline](https://dasline.de)
+-   🔭 I'm currently working on my startup [Dasline](https://dasline.de)
 -   ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json, .xml, .xd, .psd, .ai`
--   🌱 Learning new tech on my free time
+-   🌱 Learning new tech on my free time (C++, Rust)
 -   📫 Reach me: [franznkemaka.com](https://franznkemaka.com)
 -   ⚡ Fun fact: I like coding, playing video games & riding bicycles
 
