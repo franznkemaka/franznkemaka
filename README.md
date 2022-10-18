@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught Full Stack Developer working at [Rigle](https://github.com/rigledev), Stuttgart, Germany.
+I'm a self-taught Full Stack Developer with more than 5 years experience. Currently working on [Rigle](https://github.com/rigledev), Stuttgart, Germany.
 
 <br/>
 <br/>
@@ -21,9 +21,9 @@ I'm a self-taught Full Stack Developer working at [Rigle](https://github.com/rig
 
 -   🔭 I'm currently working on my startup [Rigle](https://rigle.co)
 -   ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json, .xml, .xd, .psd, .ai`
--   🌱 Learning new tech on my free time (C++, Rust)
+-   🌱 Learning new tech on my free time (Machine Learning)
 -   📫 Reach me: [franznkemaka.com](https://franznkemaka.com)
--   ⚡ Fun fact: I like coding, enjoying life 🎈, playing video games & riding bicycles
+-   ⚡ Fun fact: I like coding, enjoying life 🎈, riding bicycles & playing video games
 
 <br/>
 
