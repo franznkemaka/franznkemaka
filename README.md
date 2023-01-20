@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught Full Stack Developer with more than 5 years experience. Currently working on [Rigle](https://github.com/rigledev), Stuttgart, Germany.
+I'm a self-taught Full Stack Developer with more than 6 years experience. Currently working on [Rigle](https://github.com/rigledev), Stuttgart, Germany.
 
 <br/>
 <br/>
