@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught Full Stack Developer with more than 6 years experience. Currently working on [Rigle](https://github.com/rigledev), Stuttgart, Germany.
+I'm Franz, a 22 y/o Ex-Hacker, IT Coach, Automation Expert, and Tech Entrepreneur passionate about AI-driven solutions. Over 9 years, I’ve trained 1,000+ professionals and worked with top organizations like Deutsche Bahn and Deutsche Telekom. As CEO of [Nextise GmbH](https://nextise.de), I lead a team helping businesses master AI, automation, and modern web technologies. My journey began in Cameroon 🇨🇲, where I taught myself computing and hacked ISPs for internet access. 🚀 Mission: Empowering businesses and developers to build the future with AI and software.
 
 <br/>
 <br/>
@@ -19,11 +19,15 @@ I'm a self-taught Full Stack Developer with more than 6 years experience. Curren
 <br/>
 <br/>
 
--   🔭 I'm currently working on my startup [Rigle](https://rigle.co)
--   ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json, .xml, .xd, .psd, .ai`
--   🌱 Learning new tech on my free time (Machine Learning)
--   📫 Reach me: [franznkemaka.com](https://franznkemaka.com)
--   ⚡ Fun fact: I like coding, enjoying life 🎈, riding bicycles & playing video games
+- 🔭 I’m currently working on scaling Nextise GmbH, and empowering businesses with AI-driven solutions.
+
+- ⚙️ I use daily: `.js, .ts, .php, .py, .csx, .sql, .css .html, .bat, .sh, .yaml, .json, .xml, .xd, .psd, .ai`
+
+- 🌱 Learning new tech on my free time (Machine Learning)
+
+- 📫 Reach me: [franznkemaka.com](https://franznkemaka.com)
+
+- ⚡ Fun fact: I started my tech journey by hacking ISPs for internet access in Cameroon.
 
 <br/>
 
